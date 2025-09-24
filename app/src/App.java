@@ -33,8 +33,7 @@ public class App {
         volkswagen.setCnpj("98.765.432/0001-10");
         volkswagen.setCidade("Curitiba");
 
+        onix.imprimircarro();
+        polo.imprimircarro();
     }
-
-
-    veiculo.imprimircarro();
 }
